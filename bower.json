@@ -1,0 +1,24 @@
+{
+  "name": "pfgs_way_demo",
+  "version": "0.0.1",
+  "authors": [
+    "Paul Forrest Glass-Steel <paul_gs@unc.edu>"
+  ],
+  "description": "Tinkering",
+  "main": "myscript.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "intercooler-js": "~0.4.10",
+    "jquery": "~2.1.4",
+    "Sortable": "~1.2.0",
+    "way.js": "*",
+    "underscore": "~1.8.3"
+  }
+}
